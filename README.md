@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi , It's Moshiur !
 
-<!--
-**MoshiTarnished/MoshiTarnished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space.
 
-Here are some ideas to get you started:
+I'm passionate about **Artificial Intelligence** and **Data Science**. Right now, I'm focused on learning, experimenting, and deepening my understanding of the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- **AI Enthusiast** with a love for all things machine learning and neural networks
+- Exploring **data storytelling**, model building, and ethical AI
+- Currently working on sharpening my skills through personal projects and research
+
+---
+
+## 🔍 Interests
+
+- Machine Learning & Deep Learning  
+- Natural Language Processing  
+- Computer Vision  
+- Data Analysis & Visualization  
+- Self-Supervised & Unsupervised Learning   
+- Model Deployment & MLOps  
+- Prompt Engineering & Fine-Tuning LLMs
+
+---
+
+## 🔗 Links
+
+ [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/moshiur.rahm)
+
+---
+
+### Just so you know:
+
+I'm still learning, experimenting, and figuring things out —  
+**You'll see my repos once they are the finest.**  
+Crafted, refined, and only released when they’re worthy of the spotlight!
+
+Thanks for stopping by 
