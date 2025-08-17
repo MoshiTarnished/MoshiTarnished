@@ -35,7 +35,6 @@ I'm passionate about **Artificial Intelligence** and **Data Science**. Right now
 ### Just so you know:
 
 I'm still learning, experimenting, and figuring things out —  
-**You'll see my repos once they are the finest.**  
-Crafted, refined, and only released when they’re worthy of the spotlight!
+**You'll see my repos once they are the finest,** Crafted, refined, and only released when they’re worthy of the spotlight!
 
 Thanks for stopping by 
